@@ -1,0 +1,19 @@
+﻿Build started 12.2.2016. 10:26:05.
+     1>Project "C:\Users\Leonardo\documents\visual studio 2013\Projects\Matematicar\Matematicar\Matematicar.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GameLoop.cpp main.cpp
+         GameLoop.cpp
+     1>c:\users\leonardo\documents\visual studio 2013\projects\matematicar\matematicar\gameloop.cpp(290): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Leonardo\documents\visual studio 2013\Projects\Matematicar\Debug\Matematicar.exe" /INCREMENTAL /NOLOGO glew32.lib SDL2.lib SDL2main.lib opengl32.lib SOIL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Leonardo\documents\visual studio 2013\Projects\Matematicar\Debug\Matematicar.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Leonardo\documents\visual studio 2013\Projects\Matematicar\Debug\Matematicar.lib" /MACHINE:X86 /NODEFAULTLIB:"MSVCRT" /NODEFAULTLIB:"LIBCMT. Debug\GameLoop.obj
+         Debug\main.obj
+         Debug\Shader.obj
+         Matematicar.vcxproj -> C:\Users\Leonardo\documents\visual studio 2013\Projects\Matematicar\Debug\Matematicar.exe
+     1>Done Building Project "C:\Users\Leonardo\documents\visual studio 2013\Projects\Matematicar\Matematicar\Matematicar.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.84
